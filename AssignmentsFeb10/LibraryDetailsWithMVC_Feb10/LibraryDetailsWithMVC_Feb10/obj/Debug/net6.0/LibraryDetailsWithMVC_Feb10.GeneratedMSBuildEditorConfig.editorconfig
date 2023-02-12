@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LibraryDetailsWithMVC_Feb10
+build_property.RootNamespace = LibraryDetailsWithMVC_Feb10
+build_property.ProjectDir = C:\Users\ST293YY\source\repos\LibraryDetailsWithMVC_Feb10\LibraryDetailsWithMVC_Feb10\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ST293YY\source\repos\LibraryDetailsWithMVC_Feb10\LibraryDetailsWithMVC_Feb10
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TAuthorDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvckRldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TAuthorDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvckRldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TAuthorDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvckRldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TAuthorDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvckRldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TAuthorDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEF1dGhvckRldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBookDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBookDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBookDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBookDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBookDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvb2tEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBorrowDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd0RldGFpbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBorrowDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd0RldGFpbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBorrowDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd0RldGFpbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBorrowDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd0RldGFpbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TBorrowDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVEJvcnJvd0RldGFpbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TStudentDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnREZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TStudentDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnREZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TStudentDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnREZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TStudentDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnREZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/TStudentDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVFN0dWRlbnREZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ST293YY/source/repos/LibraryDetailsWithMVC_Feb10/LibraryDetailsWithMVC_Feb10/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-xwy416o9vl

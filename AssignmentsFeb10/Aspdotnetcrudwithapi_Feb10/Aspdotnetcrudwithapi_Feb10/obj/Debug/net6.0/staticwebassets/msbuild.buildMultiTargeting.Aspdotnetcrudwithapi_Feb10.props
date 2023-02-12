@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Aspdotnetcrudwithapi_Feb10.props" />
+</Project>
